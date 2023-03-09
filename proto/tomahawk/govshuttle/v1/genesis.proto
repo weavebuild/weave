@@ -1,0 +1,15 @@
+syntax = "proto3";
+package tomahawk.govshuttle.v1;
+
+import "gogoproto/gogo.proto";
+import "tomahawk/govshuttle/v1/govshuttle.proto";
+// this line is used by starport scaffolding # genesis/proto/import
+
+option go_package = "github.com/tomahawk-network/tomahawk/v6/x/govshuttle/types";
+
+// GenesisState defines the govshuttle module's genesis state.
+message GenesisState {
+  Params params = 1 [(gogoproto.nullable) = false];
+  // this line is used by starport scaffolding # genesis/proto/state
+}
+
