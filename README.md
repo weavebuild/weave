@@ -10,6 +10,11 @@ Tomahawk is a cross-chain L1 blockchain designed for asynchronous and co-paralle
 - Ritual: formally-verified smart-contract language for writing asynchronous contracts (EVM compliant)
 - $HAWK: stablecoin usage in dual-token synergy with $TOMA
 
+## Links:
+
+- Twitter: @tomafinance
+- Discord: todo
+
 ## License
 
 Apache-2.0 Tomahawk, Timo Sarkar
