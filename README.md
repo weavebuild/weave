@@ -2,7 +2,7 @@
 
 Tomahawk is a cross-chain L1 blockchain designed for asynchronous and co-parallel DeFi.
 
-## Financial Advancements
+## Technical Advancements
 
 - AAMM: novel mechanism for asynchronous automated market making
 - LP and Validator Rebalancing: rebalancing pendulum for liquidity-provider and stakeholders resulting in a higher security
