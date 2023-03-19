@@ -11,4 +11,4 @@ Tomahawk is a cross-chain L1 blockchain designed for asynchronous and co-paralle
 
 ## License
 
-
+Apache-2.0 Tomahawk, Timo Sarkar
