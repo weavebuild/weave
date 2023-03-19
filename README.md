@@ -7,6 +7,7 @@ Tomahawk is a cross-chain L1 blockchain designed for asynchronous and co-paralle
 - AAMM: novel mechanism for asynchronous automated market making
 - LP and Validator Rebalancing: rebalancing pendulum for liquidity-provider and stakeholders resulting in a higher security
 - CCV Replicated Security: cross-chain validations
+- MEV-Protection: PoS validators and LP/LS
 - Ritual: formally-verified smart-contract language for writing asynchronous contracts (EVM compliant)
 - $HAWK: stablecoin usage in dual-token synergy with $TOMA
 
