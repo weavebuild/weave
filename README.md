@@ -5,6 +5,7 @@ Tomahawk is a cross-chain L1 blockchain designed for asynchronous and co-paralle
 ## Technical Advancements
 
 - AAMM: novel mechanism for asynchronous automated market making
+- Feeless: there are no transaction fees within tomahawk network
 - LP and Validator Rebalancing: rebalancing pendulum for liquidity-provider and stakeholders resulting in a higher security
 - CCV Replicated Security: cross-chain validations
 - MEV-Protection: PoS validators and LP/LS
