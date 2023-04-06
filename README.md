@@ -12,6 +12,9 @@ Tomahawk is a cross-chain L1 blockchain designed for asynchronous and co-paralle
 - MEV-Protection: PoS validators and LP/LS
 - Ritual: formally-verified smart-contract language for writing asynchronous contracts (EVM compliant)
 - $HAWK: stablecoin usage in dual-token synergy with $TOMA
+- V8 Engine: allowance to percept up to 8 tx-threads 
+- 80k TPS with V8
+- 20k TPS without V8
 
 ## Links:
 
