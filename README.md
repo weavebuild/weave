@@ -1,3 +1,5 @@
+> Note: Tomahawk is undergoing a rebranding to Lumina.
+
 # Tomahawk 
 
 Tomahawk is a cross-chain L1 blockchain designed for asynchronous and co-parallel DeFi. Revolutionizing high-fidelty tradeFi. Secure, feeless, decentralized and infinitely scalable.
