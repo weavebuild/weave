@@ -7,6 +7,19 @@ Tomahawk is a cross-chain L1 blockchain designed for asynchronous and co-paralle
 
 ## Technical Advancements
 
+- **Lumina Spark**: 
+- **Lumina Arc**:
+- **Lumina Halo**:
+- **Lumina Helix**:
+- **Completely feeless**:
+- **Validator UBI**:
+- **Transaction Queue**:
+- **Dual-token economy**:
+- **CCV and MEV protection**:
+- **No frontrunning**:
+
+
+
 - AAMM: novel mechanism for asynchronous automated market making
 - Feeless: there are no transaction fees within tomahawk network
 - LP and Validator Rebalancing: rebalancing pendulum for liquidity-provider and stakeholders resulting in a higher security
