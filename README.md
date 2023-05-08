@@ -10,7 +10,7 @@ Lumina is a cross-chain L1 blockchain designed for asynchronous and co-parallel 
 - **Lumina Spark**: 
 - **Lumina Arc**:
 - **Lumina Halo**:
-- **Lumina Helix**:
+- **Lumina Tsubaki**:
 - **Completely feeless**:
 - **Validator UBI**:
 - **Transaction Queue**:
