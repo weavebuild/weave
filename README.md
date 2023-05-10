@@ -17,28 +17,7 @@ Lumina is a cross-chain L1 blockchain designed for asynchronous and co-parallel 
 - **Dual-token economy**: The entire Lumina ecosystem is controlled by a dual-token economy powered by $LSPT and $USDL. These two tokens act as the fore-most hearth of this ecosystem. $LSPT is the native token at L1 level. It is used to pay out UBI to the validators and is additionally used as a governance token. $USDL in the other hand is a algorithmic non-collateralized stablecoin pegged to $USD.
 - **CCV and MEV protection**: 
 - **No frontrunning**:
+- **TAMM and TCLOB**: novel mechanism for threaded automated market making and CLOBs
 
 
-
-- AAMM: novel mechanism for asynchronous automated market making
-- Feeless: there are no transaction fees within tomahawk network
-- LP and Validator Rebalancing: rebalancing pendulum for liquidity-provider and stakeholders resulting in a higher security
-- CCV Replicated Security: cross-chain validations
-- MEV-Protection: PoS validators and LP/LS
-- Ritual: formally-verified smart-contract language for writing asynchronous contracts (EVM compliant)
-- $HAWK: stablecoin usage in dual-token synergy with $TOMA
-- UBI for Node Validators increasing the profitability for node validators
-- Hashnet Engine: allowance to percept up to 8 tx-threads 
-- 80k TPS with Hashnet
-- 20k TPS without Hashnet
-
-> Note: Hashnet engine is still a canary draft. We are working to get a stable build of Hashnet on the thunderbird testnet.
-
-## Links:
-
-- Twitter: @tomafinance
-- Discord: todo
-
-## License
-
-Apache-2.0 Tomahawk, Timo Sarkar
+> Note: Lumina Spark is still a canary draft. We are working to get a stable build of Spark on the canary testnet.
