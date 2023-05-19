@@ -4,6 +4,9 @@
 
 Lumina is a cosmos-based cross-chain L1 blockchain designed for asynchronous and co-parallel DeFi. Revolutionizing high-fidelty tradeFi. Secure, feeless, decentralized and infinitely scalable.
  
+> Reference implementation of Lumina, a feeless and infinite scalable L1 blockchain designed for frictionless and fair use of DeFi.
+
+
 
 ## Technical Advancements
 
@@ -21,5 +24,20 @@ Lumina is a cosmos-based cross-chain L1 blockchain designed for asynchronous and
 - **No frontrunning**:
 - **TAMM and TCLOB**: novel mechanism for threaded automated market making and CLOBs
 
+## Testnet
+
+## Mainnet
+
+### Installation and Setup
+
+## Docs
+
+## Security
+
+## License
+
+Copyright © Lumina Foundation, All rights reserved. 
+
+Licensed under the terms of the Apache-2.0 License.
 
 > Note: Lumina Spark is still a canary draft. We are working to get a stable build of Spark on the canary testnet.
