@@ -14,6 +14,7 @@ Lumina is a cosmos-based cross-chain L1 blockchain designed for asynchronous and
 - **Lumina Arc**:  Lumina Arc is the first sovereign decentralized identity system to be implemented on a cosmos sidechain. DIDs allow for easy interaction on the DeFi level.
 - **Completely feeless**: Lumina is the first Layer-1 blockchain to enter the space with a completely feeless consensus. Lumina was designed for developers and users in mind that can not afford the liquidity used for gas-fees and others.  
 - **Validator UBI**: We implement a contract-controlled universal basic income for validators and archive-nodes. This attracts validators to operate nodes for the Lumina ecosystem.
+- **IBC enabled**: Lumina is IBC enabled by default. This adds the ability to access and interact with 30+ chains and over 30 billion dollar liquidity in the cosmos ecosystem.
 - **Transaction Queue**: To prevent DoS/dDos and sandwich attacks, Lumina features a built-in transaction queue that queues transactions based on their size, timestamp and suspicious activity.
 - **Dual-token economy**: The entire Lumina ecosystem is controlled by a dual-token economy powered by $LSPT and $USDL. These two tokens act as the fore-most hearth of this ecosystem. $LSPT is the native token at L1 level. It is used to pay out UBI to the validators and is additionally used as a governance token. $USDL in the other hand is a algorithmic non-collateralized stablecoin pegged to $USD.
 - **CCV and MEV protection**: 
