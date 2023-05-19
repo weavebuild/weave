@@ -9,7 +9,7 @@ Lumina is a cross-chain L1 blockchain designed for asynchronous and co-parallel 
 
 - **Lumina Spark**: In-house threaded transaction-engine providing the required scalability on cosmos-level. The usage of Lumina Spark will allow users to perform transactions with up to 8 tx-threads
 - **Lumina Halo**: Secure hardware wallet with cold-staking functions and smart walletOS. Lumina Halo contributes to the security and stability of the entire ecosystem.  
-- **Lumina Tsubaki**: A new smart-contract language based on a solidity-superset grammar, providing support for threaded contracts. Existing solidity code is valid Tsubaki code and can easily be deployed on Lumina.
+- **Lumina Tsubaki**: A new smart-contract language based on a solidity-superset grammar, providing support for threaded contracts. Tsubaki contracts are compile-time formally-verified. Existing solidity code is valid Tsubaki code and can easily be deployed on Lumina.
 - **Lumina Arc**:  Lumina Arc is the first sovereign decentralized identity system to be implemented on a cosmos sidechain. DIDs allow for easy interaction on the DeFi level.
 - **Completely feeless**: Lumina is the first Layer-1 blockchain to enter the space with a completely feeless consensus. Lumina was designed for developers and users in mind that can not afford the liquidity used for gas-fees and others.  
 - **Validator UBI**: We implement a contract-controlled universal basic income for validators and archive-nodes. This attracts validators to operate nodes for the Lumina ecosystem.
