@@ -1,8 +1,8 @@
-> Note: Tomahawk is undergoing a rebranding to Lumina.
+> Note: Tomahawk is undergoing a rebranding to Lumina. The entire ecosystem is experiencing a major revamp. Everything here is still under heavy construction. Pleaso do mot use in production.
 
 # Lumina
 
-Lumina is a cross-chain L1 blockchain designed for asynchronous and co-parallel DeFi. Revolutionizing high-fidelty tradeFi. Secure, feeless, decentralized and infinitely scalable.
+Lumina is a cosmos-based cross-chain L1 blockchain designed for asynchronous and co-parallel DeFi. Revolutionizing high-fidelty tradeFi. Secure, feeless, decentralized and infinitely scalable.
  
 
 ## Technical Advancements
