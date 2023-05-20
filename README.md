@@ -19,7 +19,7 @@ Lumina is a cosmos-based cross-chain L1 blockchain designed for asynchronous and
 - **Validator UBI**: We implement a contract-controlled universal basic income for validators and archive-nodes. This attracts validators to operate nodes for the Lumina ecosystem.
 - **IBC enabled**: Lumina is IBC enabled by default. This adds the ability to access and interact with 30+ chains and over 30 billion dollar liquidity in the cosmos ecosystem.
 - **Transaction Queue**: To prevent DoS/dDos and sandwich attacks, Lumina features a built-in transaction queue that queues transactions based on their size, timestamp and suspicious activity.
-- **Dual-token economy**: The entire Lumina ecosystem is controlled by a dual-token economy powered by $LSPT and $USDL. These two tokens act as the fore-most hearth of this ecosystem. $LSPT is the native token at L1 level. It is used to pay out UBI to the validators and is additionally used as a governance token. $USDL in the other hand is a algorithmic non-collateralized stablecoin pegged to $USD.
+- **Dual-token economy**: The entire Lumina ecosystem is controlled by a dual-token economy powered by $LSPT and $USDL. These two tokens act as the fore-most hearth of this ecosystem. $LSPT is the native token at L1 level. It is used to pay out UBI to the validators and is additionally used as a governance token. $USDL in the other hand is a algorithmic non-collateralized stablecoin pegged to $USD. It is mainly used for the defi primitives such as: lending/borrrowing collateral, amm, flash-loans, staking and more.
 - **CCV and MEV protection**: 
 - **No frontrunning**:
 - **TAMM and TCLOB**: novel mechanism for threaded automated market making and CLOBs
