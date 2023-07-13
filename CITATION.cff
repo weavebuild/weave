@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: If you use this software in your work, please cite it using the following metadata
+title: The Castor Node Implementation
+authors:
+- name: Castor Foundation 
+version: 1.0.0
+year: 2019 - 2023
+url: https://github.com/castor-foundation/castor
+repository: https://github.com/castor-foundation/castor
+license: AGPL-3.0
