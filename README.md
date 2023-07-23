@@ -11,6 +11,7 @@ Lumina is a cosmos-based cross-chain L1 blockchain designed for asynchronous and
 ## Technical Advancements
 
 - **100% EVM compatible**: Existing EVM dApps can easily be ported to Lumina. Additionally Lumina comes with easy cross-chain interactions with other EVM chains such as Ethereum, Avalanche and Solana.
+- **Portable Contract Migration**: Builtin adress discovery tool for automated migration of exisiting EVM dApps (Ethereum, Avalanche, Binance Smart Chain...).
 - **Lumina Spark**: In-house threaded transaction-engine providing the required scalability on cosmos-level. The usage of Lumina Spark will allow users to perform transactions with up to 8 tx-threads
 - **Lumina Halo**: Secure hardware wallet with cold-staking functions and smart walletOS. Lumina Halo contributes to the security and stability of the entire ecosystem.  
 - **Lumina Tsubaki**: A new smart-contract language based on a solidity-superset grammar, providing support for threaded contracts. Tsubaki contracts are compile-time formally-verified. Existing solidity code is valid Tsubaki code and can easily be deployed on Lumina.
